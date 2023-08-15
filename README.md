@@ -7,7 +7,7 @@ In this repository, you will find Python code and documentation that showcase th
 Key Features:
 
     Preprocessing scripts for cleaning and formatting GRACE accelerometer data.
-    Implementation of an LSTM model using popular deep learning libraries such as TensorFlow or PyTorch.
+    Implementation of an LSTM model using TensorFlow.
     Training and evaluation pipelines with customizable hyperparameters.
     Visualizations to illustrate the LSTM model's performance and its ability to extract meaningful patterns from accelerometer readings.
     Example notebooks demonstrating how to load, process, train, and analyze GRACE accelerometer data using the LSTM model.
@@ -16,3 +16,5 @@ Key Features:
 Whether you're an Earth scientist, a data enthusiast, or a machine learning practitioner, this repository aims to facilitate the application of LSTM-based analysis to GRACE accelerometer data, fostering a deeper understanding of Earth's gravitational field dynamics and its implications for climate research.
 
 Feel free to fork this repository, experiment with different architectures, contribute enhancements, and engage in discussions to advance our understanding of Earth's gravitational variations and their environmental significance. Your contributions are highly appreciated!
+
+More information is provided in this arxive paper
