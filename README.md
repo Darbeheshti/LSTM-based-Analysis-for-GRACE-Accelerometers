@@ -18,4 +18,5 @@ Whether you're an Earth scientist, a data enthusiast, or a machine learning prac
 Feel free to fork this repository, experiment with different architectures, contribute enhancements, and engage in discussions to advance our understanding of Earth's gravitational variations and their environmental significance. Your contributions are highly appreciated!
 
 Additional Information Available in this ArXiv Paper:
-arXiv:2308.08621 
+ 	
+https://doi.org/10.48550/arXiv.2308.08621
